@@ -2,7 +2,7 @@
 
 eu até tenho uma entrada de DVD (já improvável) mas ela não funciona. eu tenho o pc a anos e nunca percebi.
 
-![screen-0068](https://user-images.githubusercontent.com/67103901/184951326-45f182fd-35cc-4cba-a146-38262c8ba956.jpg)
+![screen-0068](https://user-images.githubusercontent.com/67103901/184951326-45f182fd-35cc-4cba-a146-38262c8ba956.jpg | width = 100px)
 lado a
 https://tidal.com/browse/playlist/a13ef90b-a4d1-4ded-9cb6-d84dd3ab1dee
 
