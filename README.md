@@ -1,6 +1,6 @@
 # musicas p jaque ouvir
 
-eu até tenho uma entrada de DVD (já improvável) mas ela não funciona. eu tenho o pc a anos e nunca percebi.
+eu até tenho uma entrada de DVD (já improvável) mas ela não funciona. eu tenho o pc ha anos e nunca percebi...
 
 os arquivos tão ali em cima ^ tem links pra playlists no tidal e no youtube
 
