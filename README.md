@@ -47,16 +47,20 @@
 - tidal: https://tidal.com/browse/playlist/3979607c-f7c1-4772-acb8-4ddbc868bce3
 - youtube: https://www.youtube.com/playlist?list=PL1M4SFkXjuhhCBGMIenRso-C-gI6silOW
 
-| No. | Track Name         | Artist             |
-| --- | ------------------ | ------------------ |
-| 1.  | Girlfriend         | Avril Lavigne      |
-| 2.  | Poison Ivy         | Trust Fund Ozu     |
-| 3.  | Tibetan Pop Stars  | Hop Along          |
-| 4.  | Some Are Lakes     | Land of Talk       |
-| 5.  | Thread             | Now, Now           |
-| 6.  | House of Circles   | Mr. Gnome          |
-| 7.  | Horseshoe Crab     | Slothrust          |
-| 8.  | Thirteen           | La Dispute         |
-| 9.  | Frágua             | Lupe de Lupe       |
-| 10. | Alfinete           | Ventre             |
-| 11. | FULTON STREET I    | La Dispute         |
+| No. | Track Name                                | Artist                   |
+| --- | ----------------------------------------- | ------------------------ |
+| 1.  | Happy Together                            | Slothrust                |
+| 2.  | Maniac                                    | Carpenter Brut           |
+| 3.  | Ela e a Lata                              | Baleia                   |
+| 4.  | Reptilia                                  | The Strokes              |
+| 5.  | Sad Dance                                 | Cat Company              |
+| 6.  | Legend of the Spaceborne Killer           | Crobot                   |
+| 7.  | Sucata                                    | Breu                     |
+| 8.  | My Skateboard Will Go On                  | Anamanaguchi             |
+| 9.  | Crystal Tokyo                             | FantomenK, Meganeko      |
+| 10. | Heavyweight                               | Infected Mushroom        |
+| 11. | (The World Covered In) Purple Shrouds     | Blood Command            |
+| 12. | Red Cow                                   | mewithoutYou             |
+| 13. | Andria                                    | La Dispute               |
+| 14. | King Park                                 | La Dispute               |
+| 15. | O Brasil Quer Mais                        | Lupe de Lupe             |
