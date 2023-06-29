@@ -1,4 +1,4 @@
-# musicas p jaque ouvir
+# musicas pra jaque ouvir
 
 <div align="center" style="margin: 200px;">
   <img align="center" src="https://user-images.githubusercontent.com/67103901/184951326-45f182fd-35cc-4cba-a146-38262c8ba956.jpg" width="400" height="400" />
